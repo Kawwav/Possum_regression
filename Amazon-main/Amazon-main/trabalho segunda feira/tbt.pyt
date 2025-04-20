@@ -32,3 +32,4 @@ try:
 
 except Exception as e:
     print(f"❌ Erro ao autenticar ou baixar o dataset: {e}")
+
